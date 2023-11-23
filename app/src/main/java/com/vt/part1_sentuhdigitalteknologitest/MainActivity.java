@@ -69,6 +69,13 @@ public class MainActivity extends AppCompatActivity implements ServiceCallbackLi
     }
 
     @Override
+    protected void onStop() {
+        super.onStop();
+        unbindService(connection);
+        mBound = false;
+    }
+
+    @Override
     protected void onDestroy() {
         super.onDestroy();
         unbindService(connection);
