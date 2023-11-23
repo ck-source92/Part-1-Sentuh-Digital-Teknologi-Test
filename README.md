@@ -2,7 +2,7 @@
 
 ## Part 1 - Mandatory 
 ### Implementation Service
-<img src='https://github.com/ck-source92/sentuh-digital-teknologi-test/assets/56222477/58288d50-be1d-457b-a10d-083ed3d6284a' width='250'>
+<img src='https://github.com/ck-source92/data-utama-semarang-test/assets/56222477/66021f45-25ef-417f-b07e-c05e24856c64' width='250'>
 
 1. Buat Activity sederhana berisi 1 tombol
 2. Kemudian klik tombol untuk mengaktifkan service
